@@ -11,13 +11,13 @@ Some platforms require the use of a phone number which are typically tied to per
 - [LocalSats](https://LocalSats.org) (💵) [**NO KYC**] <-- Buy and Sell Bitcoin in-person
 - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) (💵) [**NO KYC**] <-- Non-custodial
 - [P2PCoins.io](https://P2PCoins.io) (💵) [**NO KYC**] <-- Non-custodial
-- [Bitcoin.Global](https://Bitcoin.Global) (💵) [**NO KYC**]
 - `bisq#buy-bitcoin` channel in the [Bisq Keybase team](https://keybase.io/team/bisq) [**NO KYC**] <-- Guide
 - [AS.Exchange Spot Market](https://as.exchange/platform/spot/buy) [**NO KYC**] <-- [Announcement](https://www.newsbtc.com/press-releases/as-exchange-launches-peer-to-peer-trading-of-spot-bitcoin-with-zero-trading-and-network-fees)
 - [BitQuick](https://www.bitquick.co/buy) [**NO KYC** (when trx amount is under $400)]
 - [Remitano](https://remitano.com) [**NO KYC for Seller** (only Buyer must KYC)]
 - [Totalcoin](https://totalcoin.io/buy-sell-bitcoin) mobile app [**NO KYC** (other than phone number verification)]
 - Mycelium [Local Trader](https://mycelium.com/lt/help.html) mobile app [[Map](https://www.mycelium.com/lt/m/)] (💵) [**NO KYC**]
+- [Bitcoin.Global](https://Bitcoin.Global) (💵) [**KYC**]
 - [Noones](https://noones.com) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [KYC]
 - [Paxful.com](https://Paxful.com) (💵, [⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) [KYC] <-- Recently restarted after executive mgmt change
 - [Binance P2P](https://c2c.binance.com/en/trade/buy/BTC) (💵) [KYC]
